@@ -1,0 +1,9 @@
+-------------------------------------------------------------
+Starting  script on dolnxprodvm1020.hq.emirates.com at 02/21/2016 11:33:45 AM GST
+Starting condition check for revert
+File path and file names checked successfully
+Creating Backup Folder
+Starting Files backup and copy
+Starting revert for file ss-web-app-1.0.0.war
+Modification
+============================ Revert Completed Successfully =========================

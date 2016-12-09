@@ -1,0 +1,1 @@
+ss-web-app-1.0.0.war;/apps/jboss/FilesToPromoteManual;/apps/jboss/jboss-eap-6.4.0/jboss-eap-6.4/ssui_node2/deployments;modify
